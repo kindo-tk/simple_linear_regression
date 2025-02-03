@@ -31,7 +31,7 @@ Running the App Locally
 To run the app locally, follow these steps:
 - Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/kindo-tk/simple_linear_regression
    ```
 - Change the directory:
